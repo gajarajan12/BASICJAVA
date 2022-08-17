@@ -3,7 +3,6 @@ package javaclass.basicteach;
 public class datatypes {
 	public static void main(String[] args) 
 	{
-		
 		int i=10;
 		float f=5.5f;
 		char section=('A');
@@ -12,7 +11,7 @@ public class datatypes {
 		long L=12345678;
 		double D=313.2;
 		float f2=10.3f;
-		
+		System.out.println("i am gaja");
 		System.out.println("F2"+f2);
 		System.out.println("number"+i);
 		System.out.println("degree"+f);
