@@ -11,6 +11,7 @@ public class datatypes {
 		long L=12345678;
 		double D=313.2;
 		float f2=10.3f;
+		System.out.println("Name");
 		System.out.println("i am gaja");
 		System.out.println("F2"+f2);
 		System.out.println("number"+i);
