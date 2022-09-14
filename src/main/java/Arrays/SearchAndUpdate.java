@@ -6,7 +6,7 @@ public class SearchAndUpdate {
 
 	public static void main(String[] args)
 {
-	String [] names= {"gaja","lokesh","livin","surya","vimal"};
+	/*String [] names= {"gaja","lokesh","livin","surya","vimal"};
 	Scanner scan=new Scanner(System.in);
 	System.out.println("tell me which is your fav person");
 	System.out.println(Arrays.toString(names));
@@ -25,9 +25,10 @@ public class SearchAndUpdate {
 	 System.out.println(name+"has no founded");
 	
 	
+}
+}*/
 		
-		
-		String[] names= {"gaja","lokesh","naveen","gokul"};
+	String[] names= {"gaja","lokesh","naveen","gokul"};
 		System.out.println("before update");
 		System.out.println(Arrays.toString(names));
 		
@@ -41,7 +42,7 @@ public class SearchAndUpdate {
 		 System.out.println("after update");
 		 System.out.println(Arrays.toString(names));
 		
-}
+
 }
 }
 

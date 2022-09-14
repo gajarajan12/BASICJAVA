@@ -25,7 +25,7 @@ public class JaggedArray {
    { 
 	   for(int b=0;b<arr[a].length;b++)
 	   {
-		 System.out.print3(arr[a][b]+" "); 
+		 System.out.print(arr[a][b]+" "); 
 	   }
 	   System.out.println();
 		   

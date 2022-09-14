@@ -1,13 +1,10 @@
 package ConditionalStatement;
-
 import java.util.Scanner;
-
 public class AllJava
-
 { public static void main(String[] args) 
 {
 	Scanner scan=new Scanner(System.in);
-	System.out.println("Welcome to Gaja enterprises");
+	System.out.println("Welcome to GAJA enterprises");
 	System.out.println("tell me which type of phones you need");
 	String usage=scan.nextLine();
 	switch(usage)
@@ -31,12 +28,9 @@ public class AllJava
 			case"7":
 				System.out.println("yopu choose iphone 7 is best dimensions");
 			break;
-			
-				}
+			}
 		}
-		
 	break;
-	
 	case"vivo":
 		System.out.println("you choose vivo phone is currently available");
 	    System.out.println("which amount of gadjets you need price");
@@ -50,16 +44,9 @@ public class AllJava
 	    {case"y30":
 	    	System.out.println("you choose vivoy30");
 	    	break;
-	    	
 	    }
-	    }
-		
-		
-		
+	 }
 		break;
-	
-	
-	
 	case"oppo":
 		System.out.println("you choose oppo phone is currently available");
 	break;
@@ -70,9 +57,9 @@ public class AllJava
 		
 	default:System.out.println(" no stock ");
 	}
+  }
+}
 
-}
-}
 
 
 
