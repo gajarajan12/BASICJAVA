@@ -30,7 +30,7 @@ public class AllJava
 			break;
 			}
 		}
-	break;
+	
 	case"vivo":
 		System.out.println("you choose vivo phone is currently available");
 	    System.out.println("which amount of gadjets you need price");

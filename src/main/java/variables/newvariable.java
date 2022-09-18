@@ -3,7 +3,7 @@ package variables;
 class variable
 {
 	static int a=100;
-	
+	String name="gajarajan";
 	
    public static void main(String[]arg)
  
@@ -13,7 +13,7 @@ class variable
      System.out.println(c);
      System.out.println(d);
      variable value = new variable();
-     System.out.println(value.a);
+     System.out.println(value.name);
      
      
     }

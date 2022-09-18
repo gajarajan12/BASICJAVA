@@ -8,16 +8,16 @@ public class SwitchStatement {
 	{
 		Scanner scan=new Scanner(System.in);
 		{System.out.println("Please enter any one digit number");}
-		String names=scan.nextLine();
-		switch(names)
+		String name=scan.nextLine();
+		switch(name)
 		{
-		case"volleyball":
+		case"1":
 		System.out.println("you choose option 'One'"); 
 		break;
-		case"kabaddi":
+		case"2":
 			System.out.println("You choose option 'Two'");
 			break;
-		case"hockey":
+		case"3":
 			System.out.println("You choose option 'Three'");
 			break;
 			

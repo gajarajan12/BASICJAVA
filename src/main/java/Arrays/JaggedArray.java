@@ -10,7 +10,7 @@ public class JaggedArray {
    arr[2]=new int[5];
    arr[1]=new int[6];
    
-   int count=3;
+   int count=2;
    
    for(int a=0;a<arr.length;a++)
    { 
@@ -28,12 +28,8 @@ public class JaggedArray {
 		 System.out.print(arr[a][b]+" "); 
 	   }
 	   System.out.println();
-		   
-		   
+   }	   
 	   }
-   }
-		
-		
-		
+   	
 	  }
 

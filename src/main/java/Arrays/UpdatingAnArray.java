@@ -11,7 +11,6 @@ public class UpdatingAnArray {
   System.out.println(Arrays.toString(namess));
 	
    Scanner scan=new Scanner(System.in);
-   
    System.out.println("which position you will be change");
    int pos=scan.nextInt();
    System.out.println("enter a new names");

@@ -15,10 +15,10 @@ public class Inserting2
      }
     
      Scanner scan=new Scanner(System.in);
-   for (int gaja=0;gaja<value.length;gaja+=1)
+   for (int i=0;i<value.length;i+=10)
    {
 	   System.out.println("enter one digit value");
-	   value[gaja]=scan.nextInt();
+	   value[i]=scan.nextInt();
 	   
    }
 		
